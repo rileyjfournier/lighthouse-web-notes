@@ -3,8 +3,8 @@
 ## Creating file:
 
 * cd lighthouse-web-notes/Week_[i]/Day_[j]
-* touch "name_of_note"
-* git add "name_of_note"
+* touch "name_of_note.md"
+* git add "name_of_note.md"
 * git commit -m "context of changes"
 * git push origin master
 
